@@ -37,7 +37,7 @@ app.listen(port, () => {
   console.log('\x1b[36m[ SERVER ]\x1b[0m', '\x1b[32m SH : http://localhost:' + port + ' ✅\x1b[0m');
 });
 
-const statusMessages = ["Watching **SvK CustomZ On Top**", "Playing [${membersCount}]"];
+const statusMessages = ["Watching 𝙎𝙫𝙆 𝘾𝙪𝙨𝙩𝙤𝙢𝙕 𝙊𝙣 𝙏𝙤𝙥", "Watching 𝙎𝙫𝙆 𝘾𝙪𝙨𝙩𝙤𝙢𝙕 𝙊𝙣 𝙏𝙤𝙥"];
 const statusTypes = [ 'dnd', 'idle'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
